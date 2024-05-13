@@ -58,7 +58,7 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 
 ### Technical Skills
 <details>
-  <summary>Unfold</summary>
+  <summary>Click to Unfold</summary>
 	<div align="Left">
 		<img src="https://img.shields.io/badge/Programming_languages-grey?logo=none" alt="Programming languages" />
 		<br>
