@@ -1,10 +1,10 @@
 ### Hi there 👋
-
-<img src="https://img.shields.io/badge/Basic-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Basic" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/javascript-grey?logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<div align="Left">
+	<img src="https://img.shields.io/badge/Basic-grey?logo=visual-studio-code" alt="Basic" />
+	<img src="https://img.shields.io/badge/C%23-grey?logo=c-sharp" alt="C#" />
+	<img src="https://img.shields.io/badge/javascript-grey?logo=javascript" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/Typescript-grey?logo=typescript" alt="Typescript" />
+</div>
 <hr></hr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="WPF" />
