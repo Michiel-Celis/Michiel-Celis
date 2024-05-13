@@ -3,14 +3,14 @@
 ## Skills
 
 <div align="Left">
-	<img src="https://img.shields.io/badge/Programming_languages-white?logo=kotlin" alt="Programming languages" />
+	<img src="https://img.shields.io/badge/Programming_languages-black?logo=kotlin" alt="Programming languages" />
 	<img src="https://img.shields.io/badge/Basic-grey?logo=bricks" alt="Basic" />
 	<img src="https://img.shields.io/badge/C%23-grey?logo=csharp" alt="csharp" />
 	<img src="https://img.shields.io/badge/javascript-grey?logo=javascript" alt="JavaScript" />
 	<img src="https://img.shields.io/badge/Typescript-grey?logo=typescript" alt="Typescript" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Frameworks_and_libraries-white?logo=kotlin" alt="Frameworks and libraries" />
+	<img src="https://img.shields.io/badge/Frameworks_and_libraries-black?logo=kotlin" alt="Frameworks and libraries" />
 	<img src="https://img.shields.io/badge/HTML5-grey?logo=html5" alt="HTML5" />
 	<img src="https://img.shields.io/badge/WPF-grey?logo=wpf" alt="WPF" />
 	<img src="https://img.shields.io/badge/MAUI-grey?logo=maui" alt="MAUI" />
@@ -22,28 +22,28 @@
 	<img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" alt="Bootstrap" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Data_management-white?logo=kotlin" alt="Data management" />
+	<img src="https://img.shields.io/badge/Data_management-black?logo=kotlin" alt="Data management" />
 	<img src="https://img.shields.io/badge/Microsoft_SQL_Server-grey?logo=microsoft-sql-server" alt="Microsoft SQL Server" />
 	<img src="https://img.shields.io/badge/MySQL-grey?logo=mysql" alt="MySQL" />
 	<img src="https://img.shields.io/badge/SQLite-grey?logo=sqlite" alt="SQLite" />
 	<img src="https://img.shields.io/badge/Swagger-grey?logo=swagger" alt="Swagger" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Project_management-white?logo=kotlin" alt="Project management" />
+	<img src="https://img.shields.io/badge/Project_management-black?logo=kotlin" alt="Project management" />
 	<img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git" />
 	<img src="https://img.shields.io/badge/GitHub-grey?logo=github" alt="GitHub" />
 	<img src="https://img.shields.io/badge/Markdown-grey?logo=markdown" alt="Markdown" />
 	<img src="https://img.shields.io/badge/Azure-grey?logo=azure-devops" alt="Azure DevOps" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Project_management-white?logo=kotlin" alt="Project management" />
+	<img src="https://img.shields.io/badge/Project_management-black?logo=kotlin" alt="Project management" />
 	<img src="https://img.shields.io/badge/Visual_Studio-grey?logo=visual-studio" alt="Visual Studio" />
 	<img src="https://img.shields.io/badge/VSCode-grey?logo=visual-studio-code" alt="Visual Studio Code" />
 	<img src="https://img.shields.io/badge/Postman-grey?logo=postman" alt="Postman" />
 	<img src="https://img.shields.io/badge/docker-grey?logo=docker" alt="Docker" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Graphic_Design-white?logo=kotlin" alt="Graphic Design" />
+	<img src="https://img.shields.io/badge/Graphic_Design-black?logo=kotlin" alt="Graphic Design" />
 	<img src="https://img.shields.io/badge/Adobe_Photoshop-grey?logo=adobe-photoshop" alt="Adobe Photoshop" />
 	<img src="https://img.shields.io/badge/Adobe_Illustrator-grey?logo=adobe-illustrator" alt="Adobe Illustrator" />
 	<img src="https://img.shields.io/badge/Adobe_InDesign-grey?logo=adobe-indesign" alt="Adobe InDesign" />
@@ -54,7 +54,7 @@
 	<img src="https://img.shields.io/badge/Adobe_After_Effects-grey?logo=adobe-after-effects" alt="Adobe After Effects" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/3D_Design-white?logo=kotlin" alt="3D Design" />
+	<img src="https://img.shields.io/badge/3D_Design-black?logo=kotlin" alt="3D Design" />
 	<img src="https://img.shields.io/badge/Blender-grey?logo=blender" alt="Blender" />
 	<img src="https://img.shields.io/badge/Autodesk_3ds_Max-grey?logo=autodesk" alt="Autodesk 3ds Max" />
 	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-grey?logo=autodesk" alt="Autodesk Fusion 360" />
