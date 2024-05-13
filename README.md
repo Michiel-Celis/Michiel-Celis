@@ -1,9 +1,17 @@
 ### Hi there 👋
 I'm a software developer with a passion for creating and designing. I'm currently studying for a graduates's degree in programming.
 
+### Practical Skills
+
+<div align="Left">
+	<img src="https://img.shields.io/badge/Licenses-grey?logo=none" alt="Licenses" />
+	<br>
+	<img src="https://img.shields.io/badge/B_with_250.000+Km-2B2B2B?logo=none" alt="B" />
+	<img src="https://img.shields.io/badge/A3-2B2B2B?logo=none" alt="A3" />
+</div>
 
 
-### Skills
+### Technical Skills
 
 <div align="Left">
 	<img src="https://img.shields.io/badge/Programming_languages-grey?logo=none" alt="Programming languages" />
