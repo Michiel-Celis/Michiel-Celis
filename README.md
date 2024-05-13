@@ -58,7 +58,7 @@
 	<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-grey?logo=adobe-premiere-pro" alt="Adobe Premiere Pro" />
 	<img src="https://img.shields.io/badge/Adobe_After_Effects-grey?logo=adobe-after-effects" alt="Adobe After Effects" />
 </div>
-
+<hr></hr>
 ```3D Design```
 <div align="Left">
 	<img src="https://img.shields.io/badge/Blender-grey?logo=blender" alt="Blender" />
