@@ -4,12 +4,6 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 ### Practical Skills
 
 <div align="Left">
-	<img src="https://img.shields.io/badge/Driving_Licenses-grey?logo=none" alt="Driving Licenses" />
-	<br>
-	<img src="https://img.shields.io/badge/B_>250.000Km-2B2B2B?logo=none" alt="B" />
-	<img src="https://img.shields.io/badge/AM-2B2B2B?logo=none" alt="AM" />
-</div>
-<div align="Left">
 	<img src="https://img.shields.io/badge/Certificates-grey?logo=none" alt="Certificates" />
 	<br>
 	<img src="https://img.shields.io/badge/Business_Management-2B2B2B?logo=none" alt="Business Management" />
@@ -17,7 +11,18 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Graphic_Design-2B2B2B?logo=none" alt="Graphic Design" />
 	<img src="https://img.shields.io/badge/3D_Design-2B2B2B?logo=none" alt="3D Design" />
 </div>
-
+<div align="Left">
+	<img src="https://img.shields.io/badge/Diplomas-grey?logo=none" alt="Diplomas" />
+	<br>
+	<img src="https://img.shields.io/badge/Secondary_Education:_Electricity_Electronics-2B2B2B?logo=none" alt="Secondary Education" />
+	<img src="https://img.shields.io/badge/Higher_Education:_Graduate_Programming-2B2B2B?logo=none" alt="Higher Education" />
+</div>
+<div align="Left">
+	<img src="https://img.shields.io/badge/Driving_Licenses-grey?logo=none" alt="Driving Licenses" />
+	<br>
+	<img src="https://img.shields.io/badge/B_>250.000Km-2B2B2B?logo=none" alt="B" />
+	<img src="https://img.shields.io/badge/AM-2B2B2B?logo=none" alt="AM" />
+</div>
 <div align="Left">
 	<img src="https://img.shields.io/badge/Languages-grey?logo=none" alt="Languages" />
 	<br>
