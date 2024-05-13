@@ -6,7 +6,7 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 <div align="Left">
 	<img src="https://img.shields.io/badge/Licenses-grey?logo=none" alt="Licenses" />
 	<br>
-	<img src="https://img.shields.io/badge/B_with_250.000+Km-2B2B2B?logo=none" alt="B" />
+	<img src="https://img.shields.io/badge/B_with_>250.000Km-2B2B2B?logo=none" alt="B" />
 	<img src="https://img.shields.io/badge/A3-2B2B2B?logo=none" alt="A3" />
 </div>
 
