@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a software developer with a passion for creating and designing. I'm currently studying for a graduates's degree in programming.
 
-### Practical Skills
+### Diplomas and Certificates
 
 <div align="Left">
 	<img src="https://img.shields.io/badge/Certificates-grey?logo=none" alt="Certificates" />
@@ -17,6 +17,22 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Secondary_Education:_Electricity_Electronics-2B2B2B?logo=none" alt="Secondary Education" />
 	<img src="https://img.shields.io/badge/Higher_Education:_Graduate_Programming-2B2B2B?logo=none" alt="Higher Education" />
 </div>
+
+### Soft Skills
+
+<div align="Left">
+	<img src="https://img.shields.io/badge/Soft_skills-grey?logo=none" alt="Soft skills" />
+	<br>
+	<img src="https://img.shields.io/badge/Problem_solving-2B2B2B?logo=none" alt="Problem solving" />
+	<img src="https://img.shields.io/badge/Teamwork-2B2B2B?logo=none" alt="Teamwork" />
+	<img src="https://img.shields.io/badge/Communication-2B2B2B?logo=none" alt="Communication" />
+	<img src="https://img.shields.io/badge/Time_management-2B2B2B?logo=none" alt="Time management" />
+	<img src="https://img.shields.io/badge/Adaptability-2B2B2B?logo=none" alt="Adaptability" />
+	<img src="https://img.shields.io/badge/Leadership-2B2B2B?logo=none" alt="Leadership" />
+</div>
+
+### Practical Skills
+
 <div align="Left">
 	<img src="https://img.shields.io/badge/Driving_Licenses-grey?logo=none" alt="Driving Licenses" />
 	<br>
@@ -28,16 +44,6 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<br>
 	<img src="https://img.shields.io/badge/Dutch-2B2B2B?logo=none" alt="Dutch" />
 	<img src="https://img.shields.io/badge/English-2B2B2B?logo=none" alt="English" />
-</div>
-<div align="Left">
-	<img src="https://img.shields.io/badge/Soft_skills-grey?logo=none" alt="Soft skills" />
-	<br>
-	<img src="https://img.shields.io/badge/Problem_solving-2B2B2B?logo=none" alt="Problem solving" />
-	<img src="https://img.shields.io/badge/Teamwork-2B2B2B?logo=none" alt="Teamwork" />
-	<img src="https://img.shields.io/badge/Communication-2B2B2B?logo=none" alt="Communication" />
-	<img src="https://img.shields.io/badge/Time_management-2B2B2B?logo=none" alt="Time management" />
-	<img src="https://img.shields.io/badge/Adaptability-2B2B2B?logo=none" alt="Adaptability" />
-	<img src="https://img.shields.io/badge/Leadership-2B2B2B?logo=none" alt="Leadership" />
 </div>
 <div align="Left">
 	<img src="https://img.shields.io/badge/Design_skills-grey?logo=none" alt="Design skills" />
@@ -54,6 +60,14 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Web_development-2B2B2B?logo=none" alt="Web development" />
 	<img src="https://img.shields.io/badge/Mobile_development-2B2B2B?logo=none" alt="Mobile development" />
 	<img src="https://img.shields.io/badge/Database_management-2B2B2B?logo=none" alt="Database management" />
+</div>
+<div align="Left">
+	<img src="https://img.shields.io/badge/Prototyping_skills-grey?logo=none" alt="Prototyping skills" />
+	<br>
+	<img src="https://img.shields.io/badge/3D_Printing-2B2B2B?logo=none" alt="3D Printing" />
+	<img src="https://img.shields.io/badge/Pcb_design-2B2B2B?logo=none" alt="Pcb design" />
+	<img src="https://img.shields.io/badge/Cnc_milling-2B2B2B?logo=none" alt="Cnc milling" />
+	<img src="https://img.shields.io/badge/Laser_cutting-2B2B2B?logo=none" alt="Laser cutting" />
 </div>
 
 ### Technical Skills
@@ -122,6 +136,6 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 		<img src="https://img.shields.io/badge/Blender-2B2B2B?logo=blender" alt="Blender" />
 		<img src="https://img.shields.io/badge/Autodesk_3ds_Max-2B2B2B?logo=autodesk" alt="Autodesk 3ds Max" />
 		<img src="https://img.shields.io/badge/Autodesk_Fusion_360-2B2B2B?logo=autodesk" alt="Autodesk Fusion 360" />
-		<img src="https://img.shields.io/badge/ultimaker-2B2B2B?logo=cora" alt="Ultimaker" />
+		<img src="https://img.shields.io/badge/Ultimaker-2B2B2B?logo=cora" alt="Ultimaker" />
 	</div>
 </details>
