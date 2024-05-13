@@ -1,6 +1,9 @@
 ### Hi there 👋
+I'm a software developer with a passion for creating and designing. I'm currently studying for a graduates's degree in programming.
 
-## Skills
+
+
+### Skills
 
 <div align="Left">
 	<img src="https://img.shields.io/badge/Programming_languages-grey?logo=none" alt="Programming languages" />
@@ -40,7 +43,7 @@
 	<img src="https://img.shields.io/badge/Azure-2B2B2B?logo=azure-devops" alt="Azure DevOps" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Project_management-grey?logo=none" alt="Project management" />
+	<img src="https://img.shields.io/badge/Development_environments-grey?logo=none" alt="Development environments" />
 	<br>
 	<img src="https://img.shields.io/badge/Visual_Studio-2B2B2B?logo=visual-studio" alt="Visual Studio" />
 	<img src="https://img.shields.io/badge/VSCode-2B2B2B?logo=visual-studio-code" alt="Visual Studio Code" />
