@@ -4,10 +4,26 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 ### Practical Skills
 
 <div align="Left">
-	<img src="https://img.shields.io/badge/Licenses-grey?logo=none" alt="Licenses" />
+	<img src="https://img.shields.io/badge/Licenses-grey?logo=none" alt="Driving Licenses" />
 	<br>
-	<img src="https://img.shields.io/badge/B_with_>250.000Km-2B2B2B?logo=none" alt="B" />
-	<img src="https://img.shields.io/badge/A3-2B2B2B?logo=none" alt="A3" />
+	<img src="https://img.shields.io/badge/B_>250.000Km-2B2B2B?logo=none" alt="B" />
+	<img src="https://img.shields.io/badge/AM-2B2B2B?logo=none" alt="AM" />
+</div>
+<div align="Left">
+	<img src="https://img.shields.io/badge/Languages-grey?logo=none" alt="Languages" />
+	<br>
+	<img src="https://img.shields.io/badge/Dutch-2B2B2B?logo=none" alt="Dutch" />
+	<img src="https://img.shields.io/badge/English-2B2B2B?logo=none" alt="English" />
+</div>
+<div align="Left">
+	<img src="https://img.shields.io/badge/Soft_skills-grey?logo=none" alt="Soft skills" />
+	<br>
+	<img src="https://img.shields.io/badge/Problem_solving-2B2B2B?logo=none" alt="Problem solving" />
+	<img src="https://img.shields.io/badge/Teamwork-2B2B2B?logo=none" alt="Teamwork" />
+	<img src="https://img.shields.io/badge/Communication-2B2B2B?logo=none" alt="Communication" />
+	<img src="https://img.shields.io/badge/Time_management-2B2B2B?logo=none" alt="Time management" />
+	<img src="https://img.shields.io/badge/Adaptability-2B2B2B?logo=none" alt="Adaptability" />
+	<img src="https://img.shields.io/badge/Leadership-2B2B2B?logo=none" alt="Leadership" />
 </div>
 
 
