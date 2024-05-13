@@ -25,7 +25,22 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Adaptability-2B2B2B?logo=none" alt="Adaptability" />
 	<img src="https://img.shields.io/badge/Leadership-2B2B2B?logo=none" alt="Leadership" />
 </div>
-
+<div align="Left">
+	<img src="https://img.shields.io/badge/Design_skills-grey?logo=none" alt="Design skills" />
+	<br>
+	<img src="https://img.shields.io/badge/UX_design-2B2B2B?logo=none" alt="UX design" />
+	<img src="https://img.shields.io/badge/UI_design-2B2B2B?logo=none" alt="UI design" />
+	<img src="https://img.shields.io/badge/Graphic_design-2B2B2B?logo=none" alt="Graphic design" />
+	<img src="https://img.shields.io/badge/3D_design-2B2B2B?logo=none" alt="3D design" />
+</div>
+<div align="Left">
+	<img src="https://img.shields.io/badge/Development_skills-grey?logo=none" alt="Development skills" />
+	<br>
+	<img src="https://img.shields.io/badge/Software_development-2B2B2B?logo=none" alt="Software development" />
+	<img src="https://img.shields.io/badge/Web_development-2B2B2B?logo=none" alt="Web development" />
+	<img src="https://img.shields.io/badge/Mobile_development-2B2B2B?logo=none" alt="Mobile development" />
+	<img src="https://img.shields.io/badge/Database_management-2B2B2B?logo=none" alt="Database management" />
+</div>
 
 ### Technical Skills
 
