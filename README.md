@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+## Skills
+
+### Programming languages
 <div align="Left">
 	<img src="https://img.shields.io/badge/Basic-grey?logo=bricks" alt="Basic" />
 	<img src="https://img.shields.io/badge/C%23-grey?logo=csharp" alt="csharp" />
@@ -6,59 +10,60 @@
 	<img src="https://img.shields.io/badge/Typescript-grey?logo=typescript" alt="Typescript" />
 </div>
 
-```
-	Programming languages
-```
+### Frameworks and libraries
 <div align="Left">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-	<img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="WPF" />
-	<img src="https://img.shields.io/badge/MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="MAUI" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-	<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-	<hr></hr>
-	<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-	<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-	<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+	<img src="https://img.shields.io/badge/HTML5-grey?logo=html5" alt="HTML5" />
+	<img src="https://img.shields.io/badge/WPF-grey?logo=wpf" alt="WPF" />
+	<img src="https://img.shields.io/badge/MAUI-grey?logo=maui" alt="MAUI" />
+	<img src="https://img.shields.io/badge/CSS3-grey?logo=css3" alt="CSS3" />
+	<img src="https://img.shields.io/badge/Sass-grey?logo=sass" alt="Sass" />
+	<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Express.js-grey?logo=express" alt="Express.js" />
+	<img src="https://img.shields.io/badge/React-grey?logo=react" alt="React" />
+	<img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" alt="Bootstrap" />
+</div>
+
+### Data management
+<div align="Left">
+	<img src="https://img.shields.io/badge/Microsoft_SQL_Server-grey?logo=microsoft-sql-server" alt="Microsoft SQL Server" />
+	<img src="https://img.shields.io/badge/MySQL-grey?logo=mysql" alt="MySQL" />
+	<img src="https://img.shields.io/badge/SQLite-grey?logo=sqlite" alt="SQLite" />
+	<img src="https://img.shields.io/badge/Swagger-grey?logo=swagger" alt="Swagger" />
 </div>
 <hr></hr>
 
-## Project management
+### Project management
 <div align="Left">
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-	<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-	<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+	<img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git" />
+	<img src="https://img.shields.io/badge/GitHub-grey?logo=github" alt="GitHub" />
+	<img src="https://img.shields.io/badge/Markdown-grey?logo=markdown" alt="Markdown" />
+	<img src="https://img.shields.io/badge/Azure-grey?logo=azure-devops" alt="Azure DevOps" />
 </div>
 
-## Development and deployment environments
+### Development and deployment environments
 <div align="Left">
-	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-	<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/Visual_Studio-grey?logo=visual-studio" alt="Visual Studio" />
+	<img src="https://img.shields.io/badge/VSCode-grey?logo=visual-studio-code" alt="Visual Studio Code" />
+	<img src="https://img.shields.io/badge/Postman-grey?logo=postman" alt="Postman" />
+	<img src="https://img.shields.io/badge/docker-grey?logo=docker" alt="Docker" />
 </div>
 
-## Graphic Design
+### Graphic Design
 <div align="Left">
-	<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
-	<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
-	<img src="https://img.shields.io/badge/Adobe_InDesign-49021F?style=for-the-badge&logo=adobe-indesign&logoColor=white" alt="Adobe InDesign" />
-	<img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom" />
-	<img src="https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white" alt="Adobe Audition" />
-	<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-	<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" />
-	<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" />
+	<img src="https://img.shields.io/badge/Adobe_Photoshop-grey?logo=adobe-photoshop" alt="Adobe Photoshop" />
+	<img src="https://img.shields.io/badge/Adobe_Illustrator-grey?logo=adobe-illustrator" alt="Adobe Illustrator" />
+	<img src="https://img.shields.io/badge/Adobe_InDesign-grey?logo=adobe-indesign" alt="Adobe InDesign" />
+	<img src="https://img.shields.io/badge/Adobe_Lightroom-grey?logo=adobe-lightroom" alt="Adobe Lightroom" />
+	<img src="https://img.shields.io/badge/Adobe_Audition-grey?logo=adobe-audition" alt="Adobe Audition" />
+	<img src="https://img.shields.io/badge/Adobe_XD-grey?logo=adobe-xd" alt="Adobe XD" />
+	<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-grey?logo=adobe-premiere-pro" alt="Adobe Premiere Pro" />
+	<img src="https://img.shields.io/badge/Adobe_After_Effects-grey?logo=adobe-after-effects" alt="Adobe After Effects" />
 </div>
 
-## 3D Design
+### 3D Design
 <div align="Left">
-	<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-	<img src="https://img.shields.io/badge/Autodesk_3ds_Max-47A247?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk 3ds Max" />
-	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-FF2D20?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Fusion 360" />
-	<img src="https://img.shields.io/badge/ultimaker-FFD200?style=for-the-badge&logo=ultimaker&logoColor=black" alt="Ultimaker" />
+	<img src="https://img.shields.io/badge/Blender-grey?logo=blender" alt="Blender" />
+	<img src="https://img.shields.io/badge/Autodesk_3ds_Max-grey?logo=3ds-max" alt="Autodesk 3ds Max" />
+	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-grey?logo=fusion-360" alt="Autodesk Fusion 360" />
+	<img src="https://img.shields.io/badge/ultimaker-grey?logo=ultimaker" alt="Ultimaker" />
 </div>
