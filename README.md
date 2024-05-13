@@ -30,7 +30,6 @@
 	<img src="https://img.shields.io/badge/SQLite-grey?logo=sqlite" alt="SQLite" />
 	<img src="https://img.shields.io/badge/Swagger-grey?logo=swagger" alt="Swagger" />
 </div>
-<hr></hr>
 
 ### Project management
 <div align="Left">
@@ -63,7 +62,7 @@
 ### 3D Design
 <div align="Left">
 	<img src="https://img.shields.io/badge/Blender-grey?logo=blender" alt="Blender" />
-	<img src="https://img.shields.io/badge/Autodesk_3ds_Max-grey?logo=3ds-max" alt="Autodesk 3ds Max" />
-	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-grey?logo=fusion-360" alt="Autodesk Fusion 360" />
-	<img src="https://img.shields.io/badge/ultimaker-grey?logo=ultimaker" alt="Ultimaker" />
+	<img src="https://img.shields.io/badge/Autodesk_3ds_Max-grey?logo=autodesk" alt="Autodesk 3ds Max" />
+	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-grey?logo=autodesk" alt="Autodesk Fusion 360" />
+	<img src="https://img.shields.io/badge/ultimaker-grey?logo=cora" alt="Ultimaker" />
 </div>
