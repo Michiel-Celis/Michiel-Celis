@@ -3,7 +3,7 @@
 ## Skills
 
 <div align="Left">
-	<img src="https://img.shields.io/badge/Programming_languages-grey?logo=kotlin" alt="Programming languages" />
+	<img src="https://img.shields.io/badge/Programming_languages-grey?logo=none" alt="Programming languages" />
 	<br>
 	<img src="https://img.shields.io/badge/Basic-2B2B2B?logo=bricks" alt="Basic" />
 	<img src="https://img.shields.io/badge/C%23-2B2B2B?logo=csharp" alt="csharp" />
@@ -11,7 +11,7 @@
 	<img src="https://img.shields.io/badge/Typescript-2B2B2B?logo=typescript" alt="Typescript" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Frameworks_and_libraries-grey?logo=kotlin" alt="Frameworks and libraries" />
+	<img src="https://img.shields.io/badge/Frameworks_and_libraries-grey?logo=none" alt="Frameworks and libraries" />
 	<br>
 	<img src="https://img.shields.io/badge/HTML5-2B2B2B?logo=html5" alt="HTML5" />
 	<img src="https://img.shields.io/badge/WPF-2B2B2B?logo=wpf" alt="WPF" />
@@ -24,7 +24,7 @@
 	<img src="https://img.shields.io/badge/Bootstrap-2B2B2B?logo=bootstrap" alt="Bootstrap" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Data_management-grey?logo=kotlin" alt="Data management" />
+	<img src="https://img.shields.io/badge/Data_management-grey?logo=none" alt="Data management" />
 	<br>
 	<img src="https://img.shields.io/badge/Microsoft_SQL_Server-2B2B2B?logo=microsoft-sql-server" alt="Microsoft SQL Server" />
 	<img src="https://img.shields.io/badge/MySQL-2B2B2B?logo=mysql" alt="MySQL" />
@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Swagger-2B2B2B?logo=swagger" alt="Swagger" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Project_management-grey?logo=kotlin" alt="Project management" />
+	<img src="https://img.shields.io/badge/Project_management-grey?logo=none" alt="Project management" />
 	<br>
 	<img src="https://img.shields.io/badge/Git-2B2B2B?logo=git" alt="Git" />
 	<img src="https://img.shields.io/badge/GitHub-2B2B2B?logo=github" alt="GitHub" />
@@ -40,7 +40,7 @@
 	<img src="https://img.shields.io/badge/Azure-2B2B2B?logo=azure-devops" alt="Azure DevOps" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Project_management-grey?logo=kotlin" alt="Project management" />
+	<img src="https://img.shields.io/badge/Project_management-grey?logo=none" alt="Project management" />
 	<br>
 	<img src="https://img.shields.io/badge/Visual_Studio-2B2B2B?logo=visual-studio" alt="Visual Studio" />
 	<img src="https://img.shields.io/badge/VSCode-2B2B2B?logo=visual-studio-code" alt="Visual Studio Code" />
@@ -48,7 +48,7 @@
 	<img src="https://img.shields.io/badge/docker-2B2B2B?logo=docker" alt="Docker" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/Graphic_Design-grey?logo=kotlin" alt="Graphic Design" />
+	<img src="https://img.shields.io/badge/Graphic_Design-grey?logo=none" alt="Graphic Design" />
 	<br>
 	<img src="https://img.shields.io/badge/Adobe_Photoshop-2B2B2B?logo=adobe-photoshop" alt="Adobe Photoshop" />
 	<img src="https://img.shields.io/badge/Adobe_Illustrator-2B2B2B?logo=adobe-illustrator" alt="Adobe Illustrator" />
@@ -60,7 +60,7 @@
 	<img src="https://img.shields.io/badge/Adobe_After_Effects-2B2B2B?logo=adobe-after-effects" alt="Adobe After Effects" />
 </div>
 <div align="Left">
-	<img src="https://img.shields.io/badge/3D_Design-grey?logo=kotlin" alt="3D Design" />
+	<img src="https://img.shields.io/badge/3D_Design-grey?logo=none" alt="3D Design" />
 	<br>
 	<img src="https://img.shields.io/badge/Blender-2B2B2B?logo=blender" alt="Blender" />
 	<img src="https://img.shields.io/badge/Autodesk_3ds_Max-2B2B2B?logo=autodesk" alt="Autodesk 3ds Max" />
