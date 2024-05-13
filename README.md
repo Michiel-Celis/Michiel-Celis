@@ -57,7 +57,7 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 </div>
 
 ### Technical Skills
-
+||
 <div align="Left">
 	<img src="https://img.shields.io/badge/Programming_languages-grey?logo=none" alt="Programming languages" />
 	<br>
@@ -123,3 +123,4 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-2B2B2B?logo=autodesk" alt="Autodesk Fusion 360" />
 	<img src="https://img.shields.io/badge/ultimaker-2B2B2B?logo=cora" alt="Ultimaker" />
 </div>
+||
