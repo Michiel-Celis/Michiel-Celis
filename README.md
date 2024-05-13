@@ -59,8 +59,8 @@
 	<img src="https://img.shields.io/badge/Adobe_After_Effects-grey?logo=adobe-after-effects" alt="Adobe After Effects" />
 </div>
 
-<img src="https://img.shields.io/badge/3D_Design-white?logo=none" alt="3D Design" />
 <div align="Left">
+	<img src="https://img.shields.io/badge/3D_Design-white?logo=none" alt="3D Design" />
 	<img src="https://img.shields.io/badge/Blender-grey?logo=blender" alt="Blender" />
 	<img src="https://img.shields.io/badge/Autodesk_3ds_Max-grey?logo=autodesk" alt="Autodesk 3ds Max" />
 	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-grey?logo=autodesk" alt="Autodesk Fusion 360" />
