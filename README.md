@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="Left">
 	<img src="https://img.shields.io/badge/Basic-grey?logo=bricks" alt="Basic" />
-	<img src="https://img.shields.io/badge/C%23-512BD4?logo=c-sharp" alt="csharp" />
+	<img src="https://img.shields.io/badge/C%23-grey?logo=csharp" alt="csharp" />
 	<img src="https://img.shields.io/badge/javascript-grey?logo=javascript" alt="JavaScript" />
 	<img src="https://img.shields.io/badge/Typescript-grey?logo=typescript" alt="Typescript" />
 </div>
