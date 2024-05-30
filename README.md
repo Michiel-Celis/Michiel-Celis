@@ -122,6 +122,7 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/VSCode-2B2B2B?logo=visual-studio-code" alt="Visual Studio Code" />
 	<img src="https://img.shields.io/badge/Postman-2B2B2B?logo=postman" alt="Postman" />
 	<img src="https://img.shields.io/badge/docker-2B2B2B?logo=docker" alt="Docker" />
+	<img src="https://img.shields.io/badge/Tradingview-2B2B2B?logo=tradingview" alt="Tradingview" />
 </div>
 <div align="Left">
 	<!-- <img src="https://img.shields.io/badge/Graphic_Design-grey?logo=none" alt="Graphic Design" /> -->
