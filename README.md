@@ -94,6 +94,8 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Express.js-2B2B2B?logo=express" alt="Express.js" />
 	<img src="https://img.shields.io/badge/React-2B2B2B?logo=react" alt="React" />
 	<img src="https://img.shields.io/badge/Bootstrap-2B2B2B?logo=bootstrap" alt="Bootstrap" />
+ 	<img src="https://img.shields.io/badge/Vue-2B2B2B?logo=vue" alt="Vue" />
+	
 </div>
 <div align="Left">
 	<!-- <img src="https://img.shields.io/badge/Data_management-grey?logo=none" alt="Data management" /> -->
