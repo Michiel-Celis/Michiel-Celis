@@ -19,60 +19,6 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Higher_Education:_Graduate_Programming-2B2B2B?logo=none" alt="Higher Education" />
 </div>
 
-## Skills
-<details>
-<summary>Click to Unfold</summary>
-
-### Soft Skills
-<div align="Left">
-	<img src="https://img.shields.io/badge/Soft_skills-grey?logo=none" alt="Soft skills" />
-	<br>
-	<img src="https://img.shields.io/badge/Problem_solving-2B2B2B?logo=none" alt="Problem solving" />
-	<img src="https://img.shields.io/badge/Teamwork-2B2B2B?logo=none" alt="Teamwork" />
-	<img src="https://img.shields.io/badge/Communication-2B2B2B?logo=none" alt="Communication" />
-	<img src="https://img.shields.io/badge/Time_management-2B2B2B?logo=none" alt="Time management" />
-	<img src="https://img.shields.io/badge/Adaptability-2B2B2B?logo=none" alt="Adaptability" />
-	<img src="https://img.shields.io/badge/Leadership-2B2B2B?logo=none" alt="Leadership" />
-</div>
-
-### Practical Skills
-<div align="Left">
-	<img src="https://img.shields.io/badge/Driving_Licenses-grey?logo=none" alt="Driving Licenses" />
-	<br>
-	<img src="https://img.shields.io/badge/B_>250.000Km-2B2B2B?logo=none" alt="B" />
-	<img src="https://img.shields.io/badge/AM-2B2B2B?logo=none" alt="AM" />
-</div>
-<div align="Left">
-	<img src="https://img.shields.io/badge/Languages-grey?logo=none" alt="Languages" />
-	<br>
-	<img src="https://img.shields.io/badge/Dutch-2B2B2B?logo=none" alt="Dutch" />
-	<img src="https://img.shields.io/badge/English-2B2B2B?logo=none" alt="English" />
-</div>
-<div align="Left">
-	<img src="https://img.shields.io/badge/Design_skills-grey?logo=none" alt="Design skills" />
-	<br>
-	<img src="https://img.shields.io/badge/UX_design-2B2B2B?logo=none" alt="UX design" />
-	<img src="https://img.shields.io/badge/UI_design-2B2B2B?logo=none" alt="UI design" />
-	<img src="https://img.shields.io/badge/Graphic_design-2B2B2B?logo=none" alt="Graphic design" />
-	<img src="https://img.shields.io/badge/3D_design-2B2B2B?logo=none" alt="3D design" />
-</div>
-<div align="Left">
-	<img src="https://img.shields.io/badge/Development_skills-grey?logo=none" alt="Development skills" />
-	<br>
-	<img src="https://img.shields.io/badge/Software_development-2B2B2B?logo=none" alt="Software development" />
-	<img src="https://img.shields.io/badge/Web_development-2B2B2B?logo=none" alt="Web development" />
-	<img src="https://img.shields.io/badge/Mobile_development-2B2B2B?logo=none" alt="Mobile development" />
-	<img src="https://img.shields.io/badge/Database_management-2B2B2B?logo=none" alt="Database management" />
-</div>
-<div align="Left">
-	<img src="https://img.shields.io/badge/Prototyping_skills-grey?logo=none" alt="Prototyping skills" />
-	<br>
-	<img src="https://img.shields.io/badge/3D_Printing-2B2B2B?logo=none" alt="3D Printing" />
-	<img src="https://img.shields.io/badge/Pcb_design-2B2B2B?logo=none" alt="Pcb design" />
-	<img src="https://img.shields.io/badge/Cnc_milling-2B2B2B?logo=none" alt="Cnc milling" />
-	<img src="https://img.shields.io/badge/Laser_cutting-2B2B2B?logo=none" alt="Laser cutting" />
-</div>
-
 ### Technical Skills
 <div align="Left">
 	<!-- <img src="https://img.shields.io/badge/Programming_languages-grey?logo=none" alt="Programming languages" /> -->
@@ -144,4 +90,4 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Autodesk_Fusion_360-2B2B2B?logo=autodesk" alt="Autodesk Fusion 360" />
 	<img src="https://img.shields.io/badge/Ultimaker-2B2B2B?logo=cora" alt="Ultimaker" />
 </div>
-</details>
+
