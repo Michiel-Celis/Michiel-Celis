@@ -82,6 +82,7 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/javascript-2B2B2B?logo=javascript" alt="JavaScript" />
 	<img src="https://img.shields.io/badge/Typescript-2B2B2B?logo=typescript" alt="Typescript" />
 	<img src="https://img.shields.io/badge/Pinescript-2B2B2B?logo=pinescript" alt="Pinescript" />
+	<img src="https://img.shields.io/badge/Python-2B2B2B?logo=python" alt="Python" />
 </div>
 <div align="Left">
 	<!-- <img src="https://img.shields.io/badge/Frameworks_and_libraries-grey?logo=none" alt="Frameworks and libraries" /> -->
