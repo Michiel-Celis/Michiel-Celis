@@ -3,6 +3,13 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 
 
 
+
+<div align="Left">
+	<img src="https://img.shields.io/badge/Diplomas-grey?logo=none" alt="Diplomas" />
+	<br>
+	<img src="https://img.shields.io/badge/Secondary_Education:_Electricity_Electronics-2B2B2B?logo=none" alt="Secondary Education" />
+	<img src="https://img.shields.io/badge/Higher_Education:_Graduate_Programming-2B2B2B?logo=none" alt="Higher Education" />
+</div>
 <div align="Left">
 	<img src="https://img.shields.io/badge/Certificates-grey?logo=none" alt="Certificates" />
 	<br>
@@ -10,12 +17,6 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<img src="https://img.shields.io/badge/Web_Development-2B2B2B?logo=none" alt="Web Development" />
 	<img src="https://img.shields.io/badge/Graphic_Design-2B2B2B?logo=none" alt="Graphic Design" />
 	<img src="https://img.shields.io/badge/3D_Design-2B2B2B?logo=none" alt="3D Design" />
-</div>
-<div align="Left">
-	<img src="https://img.shields.io/badge/Diplomas-grey?logo=none" alt="Diplomas" />
-	<br>
-	<img src="https://img.shields.io/badge/Secondary_Education:_Electricity_Electronics-2B2B2B?logo=none" alt="Secondary Education" />
-	<img src="https://img.shields.io/badge/Higher_Education:_Graduate_Programming-2B2B2B?logo=none" alt="Higher Education" />
 </div>
 <div align="Left">
 	<img src="https://img.shields.io/badge/Programming_languages-grey?logo=none" alt="Programming languages" />
