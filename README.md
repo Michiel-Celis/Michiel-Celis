@@ -88,8 +88,8 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 	<!-- <img src="https://img.shields.io/badge/Frameworks_and_libraries-grey?logo=none" alt="Frameworks and libraries" /> -->
 	<br>
 	<img src="https://img.shields.io/badge/HTML5-2B2B2B?logo=html5" alt="HTML5" />
-	<img src="https://img.shields.io/badge/WPF-2B2B2B?logo=wpf" alt="WPF" />
-	<img src="https://img.shields.io/badge/MAUI-2B2B2B?logo=maui" alt="MAUI" />
+	<img src="https://img.shields.io/badge/WPF-2B2B2B?logo=dotnet" alt="WPF" />
+	<img src="https://img.shields.io/badge/MAUI-2B2B2B?logo=dotnet" alt="MAUI" />
 	<img src="https://img.shields.io/badge/CSS3-2B2B2B?logo=css3" alt="CSS3" />
 	<img src="https://img.shields.io/badge/Sass-2B2B2B?logo=sass" alt="Sass" />
 	<img src="https://img.shields.io/badge/Node.js-2B2B2B?logo=node.js" alt="Node.js" />
