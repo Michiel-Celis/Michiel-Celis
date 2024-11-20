@@ -14,7 +14,6 @@ I'm a passionate Jack of all trades, who loves blending technology with creativi
 
 
 ## 🔗 Connect with Me
-
-<a href="https://www.linkedin.com/in/michiel-celis/"><div style="background:#2667caF; display:inline-block; padding:5px;"><b style="color:#FFFFFF">LinkedIn</b></div></a>
-<a href="https://michielcelis.com"><div style="background:#2667caF; display:inline-block; padding:5px;"><b style="color:#FFFFFF">Portfolio</b></div></a>
-<a href="mailto:info@michielcelis.com"><div style="background:#2667caF; display:inline-block; padding:5px;"><b style="color:#FFFFFF">Mail</b></div></a>
+<a href="https://www.linkedin.com/in/michiel-celis/"><button style="background:#2667caF; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer;">LinkedIn</button></a>
+<a href="https://michielcelis.com"><button style="background:#2667caF; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer;">Portfolio</button></a>
+<a href="mailto:info@michielcelis.com"><button style="background:#2667caF; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer;">Mail</button></a>
