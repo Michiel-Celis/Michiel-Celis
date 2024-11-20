@@ -5,7 +5,7 @@ I'm a software developer with a passion for creating and designing. I'm currentl
 
 
 <div align="Left">
-	<img src="https://img.shields.io/badge/Diplomas-black?logo=none" alt="Diplomas" />
+	<img src="https://img.shields.io/badge/Diplomas-transparent?logo=none" alt="Diplomas" />
 	<br>
 	<img src="https://img.shields.io/badge/Secondary_Education:_Electricity_Electronics-2B2B2B?logo=none" alt="Secondary Education" />
 	<img src="https://img.shields.io/badge/Higher_Education:_Graduate_Programming-2B2B2B?logo=none" alt="Higher Education" />
