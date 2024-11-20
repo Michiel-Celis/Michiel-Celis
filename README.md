@@ -7,12 +7,6 @@ I'm a Jack of all trades, who loves blending technology with creativity.
 <kbd><br><b style="color:#44AAFF">Graphic Designer</b><br><br></kbd>
 <kbd><br><b style="color:#44AAFF">Product Designer</b><br><br></kbd>
 
-
-
-
-
-
-
 ### Connect with Me 🔗 
 <a href="https://www.linkedin.com/in/michiel-celis/"><kbd style="background:#2667caF; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer;">LinkedIn</kbd></a>
 <a href="https://michielcelis.com"><kbd style="background:#2667caF; color:#FFFFFF; border:none; padding:10px 20px; cursor:pointer;">Portfolio</kbd></a>
