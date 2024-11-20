@@ -1,6 +1,6 @@
 ## Who am i ?
 
-I'm a passionate Jack of all trades, who loves blending technology with creativity.
+I'm a Jack of all trades, who loves blending technology with creativity.
 
 <kbd><br><b style="color:#44AAFF">Software Developer</b><br><br></kbd>
 <kbd><br><b style="color:#44AAFF">Quantitative Analyst</b><br><br></kbd>
